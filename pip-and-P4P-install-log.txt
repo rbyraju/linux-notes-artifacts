@@ -1,0 +1,333 @@
+rbyraju@rbyraju-HP-ProBook-6545b:~$ sudo apt install python-pip
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  chromium-codecs-ffmpeg-extra gir1.2-rb-3.0 gir1.2-secret-1 gnome-video-effects guile-2.0-libs
+  libandroid-properties1 libdmapsharing-3.0-2 libgc1c2 libgpod-common libgpod4 libhardware2
+  libhybris libhybris-common1 libitl0 libllvm3.8 libmedia1 libmircommon5 liboxideqt-qmlplugin
+  liboxideqtcore0 liboxideqtquick0 libpango1.0-0 libpangox-1.0-0 libqqwing2v5
+  libqt5positioning5 libqt5script5 libqt5serialport5 librhythmbox-core9 libsgutils2-2
+  libwhoopsie-preferences0 linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-headers-4.4.0-57 linux-headers-4.4.0-57-generic linux-headers-4.4.0-59
+  linux-headers-4.4.0-59-generic linux-headers-4.4.0-64 linux-headers-4.4.0-64-generic
+  linux-headers-4.4.0-66 linux-headers-4.4.0-66-generic linux-headers-4.4.0-71
+  linux-headers-4.4.0-72 linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
+  linux-headers-4.4.0-75-generic linux-headers-4.4.0-77 linux-headers-4.4.0-77-generic
+  linux-headers-4.4.0-78 linux-headers-4.4.0-78-generic linux-image-4.4.0-31-generic
+  linux-image-4.4.0-57-generic linux-image-4.4.0-59-generic linux-image-4.4.0-64-generic
+  linux-image-4.4.0-66-generic linux-image-4.4.0-71-generic linux-image-4.4.0-72-generic
+  linux-image-4.4.0-75-generic linux-image-4.4.0-77-generic linux-image-4.4.0-78-generic
+  linux-image-extra-4.4.0-31-generic linux-image-extra-4.4.0-57-generic
+  linux-image-extra-4.4.0-59-generic linux-image-extra-4.4.0-64-generic
+  linux-image-extra-4.4.0-66-generic linux-image-extra-4.4.0-71-generic
+  linux-image-extra-4.4.0-72-generic linux-image-extra-4.4.0-75-generic
+  linux-image-extra-4.4.0-77-generic linux-image-extra-4.4.0-78-generic media-player-info
+  oxideqt-codecs python3-mako qml-module-qt-labs-folderlistmodel qml-module-qt-labs-settings
+  qml-module-ubuntu-onlineaccounts qml-module-ubuntu-web qtdeclarative5-accounts-plugin
+  qtdeclarative5-qtquick2-plugin rhythmbox-data snap-confine stellarium-data
+  ubuntu-core-launcher unity-webapps-qml whoopsie-preferences
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libexpat1-dev libpython-all-dev libpython-dev libpython2.7-dev python-all python-all-dev
+  python-dev python-pip-whl python-pkg-resources python-setuptools python-wheel python2.7-dev
+Suggested packages:
+  python-setuptools-doc
+The following NEW packages will be installed:
+  libexpat1-dev libpython-all-dev libpython-dev libpython2.7-dev python-all python-all-dev
+  python-dev python-pip python-pip-whl python-pkg-resources python-setuptools python-wheel
+  python2.7-dev
+0 upgraded, 13 newly installed, 0 to remove and 0 not upgraded.
+Need to get 29.8 MB of archives.
+After this operation, 45.1 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+Get:1 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libexpat1-dev amd64 2.1.0-7ubuntu0.16.04.3 [115 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libpython2.7-dev amd64 2.7.12-1ubuntu0~16.04.1 [27.8 MB]
+Get:3 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libpython-dev amd64 2.7.11-1 [7,728 B]
+Get:4 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libpython-all-dev amd64 2.7.11-1 [992 B]
+Get:5 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 python-all amd64 2.7.11-1 [978 B]   
+Get:6 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 python2.7-dev amd64 2.7.12-1ubuntu0~16.04.1 [276 kB]
+Get:7 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 python-dev amd64 2.7.11-1 [1,160 B] 
+Get:8 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 python-all-dev amd64 2.7.11-1 [1,000 B]
+Get:9 http://us.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 python-pip-whl all 8.1.1-2ubuntu0.4 [1,110 kB]
+Get:10 http://us.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 python-pip all 8.1.1-2ubuntu0.4 [144 kB]
+Get:11 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 python-pkg-resources all 20.7.0-1 [108 kB]
+Get:12 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 python-setuptools all 20.7.0-1 [169 kB]
+Get:13 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 python-wheel all 0.29.0-1 [48.0 kB]
+Fetched 29.8 MB in 5min 47s (85.8 kB/s)                                                         
+Selecting previously unselected package libexpat1-dev:amd64.
+(Reading database ... 526481 files and directories currently installed.)
+Preparing to unpack .../libexpat1-dev_2.1.0-7ubuntu0.16.04.3_amd64.deb ...
+Unpacking libexpat1-dev:amd64 (2.1.0-7ubuntu0.16.04.3) ...
+Selecting previously unselected package libpython2.7-dev:amd64.
+Preparing to unpack .../libpython2.7-dev_2.7.12-1ubuntu0~16.04.1_amd64.deb ...
+Unpacking libpython2.7-dev:amd64 (2.7.12-1ubuntu0~16.04.1) ...
+Selecting previously unselected package libpython-dev:amd64.
+Preparing to unpack .../libpython-dev_2.7.11-1_amd64.deb ...
+Unpacking libpython-dev:amd64 (2.7.11-1) ...
+Selecting previously unselected package libpython-all-dev:amd64.
+Preparing to unpack .../libpython-all-dev_2.7.11-1_amd64.deb ...
+Unpacking libpython-all-dev:amd64 (2.7.11-1) ...
+Selecting previously unselected package python-all.
+Preparing to unpack .../python-all_2.7.11-1_amd64.deb ...
+Unpacking python-all (2.7.11-1) ...
+Selecting previously unselected package python2.7-dev.
+Preparing to unpack .../python2.7-dev_2.7.12-1ubuntu0~16.04.1_amd64.deb ...
+Unpacking python2.7-dev (2.7.12-1ubuntu0~16.04.1) ...
+Selecting previously unselected package python-dev.
+Preparing to unpack .../python-dev_2.7.11-1_amd64.deb ...
+Unpacking python-dev (2.7.11-1) ...
+Selecting previously unselected package python-all-dev.
+Preparing to unpack .../python-all-dev_2.7.11-1_amd64.deb ...
+Unpacking python-all-dev (2.7.11-1) ...
+Selecting previously unselected package python-pip-whl.
+Preparing to unpack .../python-pip-whl_8.1.1-2ubuntu0.4_all.deb ...
+Unpacking python-pip-whl (8.1.1-2ubuntu0.4) ...
+Selecting previously unselected package python-pip.
+Preparing to unpack .../python-pip_8.1.1-2ubuntu0.4_all.deb ...
+Unpacking python-pip (8.1.1-2ubuntu0.4) ...
+Selecting previously unselected package python-pkg-resources.
+Preparing to unpack .../python-pkg-resources_20.7.0-1_all.deb ...
+Unpacking python-pkg-resources (20.7.0-1) ...
+Selecting previously unselected package python-setuptools.
+Preparing to unpack .../python-setuptools_20.7.0-1_all.deb ...
+Unpacking python-setuptools (20.7.0-1) ...
+Selecting previously unselected package python-wheel.
+Preparing to unpack .../python-wheel_0.29.0-1_all.deb ...
+Unpacking python-wheel (0.29.0-1) ...
+Processing triggers for doc-base (0.10.7) ...
+Processing 1 added doc-base file...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up libexpat1-dev:amd64 (2.1.0-7ubuntu0.16.04.3) ...
+Setting up libpython2.7-dev:amd64 (2.7.12-1ubuntu0~16.04.1) ...
+Setting up libpython-dev:amd64 (2.7.11-1) ...
+Setting up libpython-all-dev:amd64 (2.7.11-1) ...
+Setting up python-all (2.7.11-1) ...
+Setting up python2.7-dev (2.7.12-1ubuntu0~16.04.1) ...
+Setting up python-dev (2.7.11-1) ...
+Setting up python-all-dev (2.7.11-1) ...
+Setting up python-pip-whl (8.1.1-2ubuntu0.4) ...
+Setting up python-pip (8.1.1-2ubuntu0.4) ...
+Setting up python-pkg-resources (20.7.0-1) ...
+Setting up python-setuptools (20.7.0-1) ...
+Setting up python-wheel (0.29.0-1) ...
+rbyraju@rbyraju-HP-ProBook-6545b:~$ 
+
+rbyraju@rbyraju-HP-ProBook-6545b:~$ pip -V
+pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
+rbyraju@rbyraju-HP-ProBook-6545b:~$ 
+
+https://docs.bigchaindb.com/projects/server/en/latest/appendices/install-latest-pip.html
+https://www.perforce.com/blog/p4python-goes-pip
+https://pip.pypa.io/en/stable/installing/#python-and-os-compatibility
+https://pypi.python.org/pypi/P4Python/2017.1.1526044
+
+
+
+>>>>>>>>>>
+pip install p4python
+
+
+https://www.perforce.com/helix-p4python-package-repositories-overview
+sudo apt-get install perforce-p4python
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>..
+
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# sudo apt-get install perforce-p4python
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  chromium-codecs-ffmpeg-extra gir1.2-rb-3.0 gir1.2-secret-1
+  gnome-video-effects guile-2.0-libs libandroid-properties1
+  libdmapsharing-3.0-2 libgc1c2 libgpod-common libgpod4 libhardware2 libhybris
+  libhybris-common1 libitl0 libllvm3.8 libmedia1 libmircommon5
+  liboxideqt-qmlplugin liboxideqtcore0 liboxideqtquick0 libpango1.0-0
+  libpangox-1.0-0 libqqwing2v5 libqt5positioning5 libqt5script5
+  libqt5serialport5 librhythmbox-core9 libsgutils2-2 libwhoopsie-preferences0
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic linux-headers-4.4.0-57
+  linux-headers-4.4.0-57-generic linux-headers-4.4.0-59
+  linux-headers-4.4.0-59-generic linux-headers-4.4.0-64
+  linux-headers-4.4.0-64-generic linux-headers-4.4.0-66
+  linux-headers-4.4.0-66-generic linux-headers-4.4.0-71 linux-headers-4.4.0-72
+  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
+  linux-headers-4.4.0-75-generic linux-headers-4.4.0-77
+  linux-headers-4.4.0-77-generic linux-headers-4.4.0-78
+  linux-headers-4.4.0-78-generic linux-image-4.4.0-31-generic
+  linux-image-4.4.0-57-generic linux-image-4.4.0-59-generic
+  linux-image-4.4.0-64-generic linux-image-4.4.0-66-generic
+  linux-image-4.4.0-71-generic linux-image-4.4.0-72-generic
+  linux-image-4.4.0-75-generic linux-image-4.4.0-77-generic
+  linux-image-4.4.0-78-generic linux-image-extra-4.4.0-31-generic
+  linux-image-extra-4.4.0-57-generic linux-image-extra-4.4.0-59-generic
+  linux-image-extra-4.4.0-64-generic linux-image-extra-4.4.0-66-generic
+  linux-image-extra-4.4.0-71-generic linux-image-extra-4.4.0-72-generic
+  linux-image-extra-4.4.0-75-generic linux-image-extra-4.4.0-77-generic
+  linux-image-extra-4.4.0-78-generic media-player-info oxideqt-codecs
+  python3-mako qml-module-qt-labs-folderlistmodel qml-module-qt-labs-settings
+  qml-module-ubuntu-onlineaccounts qml-module-ubuntu-web
+  qtdeclarative5-accounts-plugin qtdeclarative5-qtquick2-plugin rhythmbox-data
+  snap-confine stellarium-data ubuntu-core-launcher unity-webapps-qml
+  whoopsie-preferences
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  perforce-p4python-python2.7
+The following NEW packages will be installed:
+  perforce-p4python perforce-p4python-python2.7
+0 upgraded, 2 newly installed, 0 to remove and 14 not upgraded.
+Need to get 813 kB of archives.
+After this operation, 2,064 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://package.perforce.com/apt/ubuntu xenial/release amd64 perforce-p4python-python2.7 amd64 2017.1-1526044~xenial [810 kB]
+Get:2 http://package.perforce.com/apt/ubuntu xenial/release amd64 perforce-p4python amd64 2017.1-1526044~xenial [3,316 B]
+Fetched 813 kB in 0s (1,824 kB/s)            
+Selecting previously unselected package perforce-p4python-python2.7.
+(Reading database ... 526920 files and directories currently installed.)
+Preparing to unpack .../perforce-p4python-python2.7_2017.1-1526044~xenial_amd64.deb ...
+Unpacking perforce-p4python-python2.7 (2017.1-1526044~xenial) ...
+Selecting previously unselected package perforce-p4python.
+Preparing to unpack .../perforce-p4python_2017.1-1526044~xenial_amd64.deb ...
+Unpacking perforce-p4python (2017.1-1526044~xenial) ...
+Setting up perforce-p4python-python2.7 (2017.1-1526044~xenial) ...
+Setting up perforce-p4python (2017.1-1526044~xenial) ...
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# sudo apt-get install helix-p4d
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  chromium-codecs-ffmpeg-extra gir1.2-rb-3.0 gir1.2-secret-1
+  gnome-video-effects guile-2.0-libs libandroid-properties1
+  libdmapsharing-3.0-2 libgc1c2 libgpod-common libgpod4 libhardware2 libhybris
+  libhybris-common1 libitl0 libllvm3.8 libmedia1 libmircommon5
+  liboxideqt-qmlplugin liboxideqtcore0 liboxideqtquick0 libpango1.0-0
+  libpangox-1.0-0 libqqwing2v5 libqt5positioning5 libqt5script5
+  libqt5serialport5 librhythmbox-core9 libsgutils2-2 libwhoopsie-preferences0
+  linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic linux-headers-4.4.0-57
+  linux-headers-4.4.0-57-generic linux-headers-4.4.0-59
+  linux-headers-4.4.0-59-generic linux-headers-4.4.0-64
+  linux-headers-4.4.0-64-generic linux-headers-4.4.0-66
+  linux-headers-4.4.0-66-generic linux-headers-4.4.0-71 linux-headers-4.4.0-72
+  linux-headers-4.4.0-72-generic linux-headers-4.4.0-75
+  linux-headers-4.4.0-75-generic linux-headers-4.4.0-77
+  linux-headers-4.4.0-77-generic linux-headers-4.4.0-78
+  linux-headers-4.4.0-78-generic linux-image-4.4.0-31-generic
+  linux-image-4.4.0-57-generic linux-image-4.4.0-59-generic
+  linux-image-4.4.0-64-generic linux-image-4.4.0-66-generic
+  linux-image-4.4.0-71-generic linux-image-4.4.0-72-generic
+  linux-image-4.4.0-75-generic linux-image-4.4.0-77-generic
+  linux-image-4.4.0-78-generic linux-image-extra-4.4.0-31-generic
+  linux-image-extra-4.4.0-57-generic linux-image-extra-4.4.0-59-generic
+  linux-image-extra-4.4.0-64-generic linux-image-extra-4.4.0-66-generic
+  linux-image-extra-4.4.0-71-generic linux-image-extra-4.4.0-72-generic
+  linux-image-extra-4.4.0-75-generic linux-image-extra-4.4.0-77-generic
+  linux-image-extra-4.4.0-78-generic media-player-info oxideqt-codecs
+  python3-mako qml-module-qt-labs-folderlistmodel qml-module-qt-labs-settings
+  qml-module-ubuntu-onlineaccounts qml-module-ubuntu-web
+  qtdeclarative5-accounts-plugin qtdeclarative5-qtquick2-plugin rhythmbox-data
+  snap-confine stellarium-data ubuntu-core-launcher unity-webapps-qml
+  whoopsie-preferences
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  helix-cli helix-cli-base helix-p4d-base helix-p4d-base-17.1 helix-p4dctl
+The following NEW packages will be installed:
+  helix-cli helix-cli-base helix-p4d helix-p4d-base helix-p4d-base-17.1
+  helix-p4dctl
+0 upgraded, 6 newly installed, 0 to remove and 14 not upgraded.
+Need to get 7,321 kB of archives.
+After this operation, 15.8 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-cli-base amd64 2017.1-1559660~xenial [1,984 kB]
+Get:2 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-cli amd64 2017.1-1559660~xenial [7,156 B]
+Get:3 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-p4dctl amd64 2017.1-1559660~xenial [1,809 kB]
+Get:4 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-p4d-base-17.1 amd64 2017.1-1559660~xenial [3,499 kB]
+Get:5 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-p4d-base amd64 2017.1-1559660~xenial [3,282 B]
+Get:6 http://package.perforce.com/apt/ubuntu xenial/release amd64 helix-p4d amd64 2017.1-1559660~xenial [19.2 kB]
+Fetched 7,321 kB in 17s (430 kB/s)   
+Selecting previously unselected package helix-cli-base.
+(Reading database ... 526930 files and directories currently installed.)
+Preparing to unpack .../helix-cli-base_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-cli-base (2017.1-1559660~xenial) ...
+Selecting previously unselected package helix-cli.
+Preparing to unpack .../helix-cli_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-cli (2017.1-1559660~xenial) ...
+Selecting previously unselected package helix-p4dctl.
+Preparing to unpack .../helix-p4dctl_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-p4dctl (2017.1-1559660~xenial) ...
+Selecting previously unselected package helix-p4d-base-17.1.
+Preparing to unpack .../helix-p4d-base-17.1_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-p4d-base-17.1 (2017.1-1559660~xenial) ...
+Selecting previously unselected package helix-p4d-base.
+Preparing to unpack .../helix-p4d-base_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-p4d-base (2017.1-1559660~xenial) ...
+Selecting previously unselected package helix-p4d.
+Preparing to unpack .../helix-p4d_2017.1-1559660~xenial_amd64.deb ...
+Unpacking helix-p4d (2017.1-1559660~xenial) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for systemd (229-4ubuntu19) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+ureadahead will be reprofiled on next reboot
+Setting up helix-cli-base (2017.1-1559660~xenial) ...
+Setting up helix-cli (2017.1-1559660~xenial) ...
+linking /opt/perforce/bin/p4 to /usr/bin/p4
+Setting up helix-p4dctl (2017.1-1559660~xenial) ...
+Setting up helix-p4d-base-17.1 (2017.1-1559660~xenial) ...
+update-alternatives: using /opt/perforce/sbin/p4d.17.1 to provide /opt/perforce/sbin/p4d (helix-p4d) in auto mode
+Setting up helix-p4d-base (2017.1-1559660~xenial) ...
+Setting up helix-p4d (2017.1-1559660~xenial) ...
+linking /opt/perforce/sbin/p4d to /usr/sbin/p4d
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::
+::  Thank you for choosing Perforce Helix
+::  The following has been installed by the 'helix-p4d' package:
+::
+::  - The Helix Version Engine (p4d)
+::  - A 'perforce' system user
+::  - p4dctl, a tool for managing Perforce service instances
+::  - The Helix Command-Line Client (p4)
+::
+::  The Helix Version Engine is now installed, but not yet configured.
+::  You must run the following to configure p4d (as root):
+::
+::    sudo /opt/perforce/sbin/configure-helix-p4d.sh
+::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Started 0 services.
+No services configured.
+Processing triggers for systemd (229-4ubuntu19) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# A
+
+
+==========
+
+rbyraju@rbyraju-HP-ProBook-6545b:~$ p4 -V
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2017 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+See 'p4 help legal' for full OpenSSL license information
+Version of OpenSSL Libraries: OpenSSL 1.0.2l  25 May 2017
+Rev. P4/LINUX26X86_64/2017.1/1559660 (2017/08/31).rbyraju@rbyraju-HP-ProBook-6545b:~$ p4 -V
+Perforce - The Fast Software Configuration Management System.
+Copyright 1995-2017 Perforce Software.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+See 'p4 help legal' for full OpenSSL license information
+Version of OpenSSL Libraries: OpenSSL 1.0.2l  25 May 2017
+Rev. P4/LINUX26X86_64/2017.1/1559660 (2017/08/31).
+
+
+rbyraju@rbyraju-HP-ProBook-6545b:~$ 
+rbyraju@rbyraju-HP-ProBook-6545b:~$ 
+
+
+

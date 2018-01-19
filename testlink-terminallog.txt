@@ -1,0 +1,473 @@
+./testlink-1.9.16/third_party/adodb/xsl/convert-0.1-0.2.xsl
+./testlink-1.9.16/third_party/adodb/xsl/._convert-0.1-0.3.xsl
+./testlink-1.9.16/third_party/adodb/xsl/convert-0.1-0.3.xsl
+./testlink-1.9.16/third_party/adodb/xsl/._convert-0.2-0.1.xsl
+./testlink-1.9.16/third_party/adodb/xsl/convert-0.2-0.1.xsl
+./testlink-1.9.16/third_party/adodb/xsl/._convert-0.2-0.3.xsl
+./testlink-1.9.16/third_party/adodb/xsl/convert-0.2-0.3.xsl
+./testlink-1.9.16/third_party/adodb/xsl/._remove-0.2.xsl
+./testlink-1.9.16/third_party/adodb/xsl/remove-0.2.xsl
+./testlink-1.9.16/third_party/adodb/xsl/._remove-0.3.xsl
+./testlink-1.9.16/third_party/adodb/xsl/remove-0.3.xsl
+./testlink-1.9.16/third_party/adodb/session/._adodb-compress-bzip2.php
+./testlink-1.9.16/third_party/adodb/session/adodb-compress-bzip2.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-compress-gzip.php
+./testlink-1.9.16/third_party/adodb/session/adodb-compress-gzip.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-cryptsession.php
+./testlink-1.9.16/third_party/adodb/session/adodb-cryptsession.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-cryptsession2.php
+./testlink-1.9.16/third_party/adodb/session/adodb-cryptsession2.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-encrypt-mcrypt.php
+./testlink-1.9.16/third_party/adodb/session/adodb-encrypt-mcrypt.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-encrypt-md5.php
+./testlink-1.9.16/third_party/adodb/session/adodb-encrypt-md5.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-encrypt-secret.php
+./testlink-1.9.16/third_party/adodb/session/adodb-encrypt-secret.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-encrypt-sha1.php
+./testlink-1.9.16/third_party/adodb/session/adodb-encrypt-sha1.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-sess.txt
+./testlink-1.9.16/third_party/adodb/session/adodb-sess.txt
+./testlink-1.9.16/third_party/adodb/session/._adodb-session-clob.php
+./testlink-1.9.16/third_party/adodb/session/adodb-session-clob.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-session-clob2.php
+./testlink-1.9.16/third_party/adodb/session/adodb-session-clob2.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-session.php
+./testlink-1.9.16/third_party/adodb/session/adodb-session.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-session2.php
+./testlink-1.9.16/third_party/adodb/session/adodb-session2.php
+./testlink-1.9.16/third_party/adodb/session/._adodb-sessions.mysql.sql
+./testlink-1.9.16/third_party/adodb/session/adodb-sessions.mysql.sql
+./testlink-1.9.16/third_party/adodb/session/._adodb-sessions.oracle.clob.sql
+./testlink-1.9.16/third_party/adodb/session/adodb-sessions.oracle.clob.sql
+./testlink-1.9.16/third_party/adodb/session/._adodb-sessions.oracle.sql
+./testlink-1.9.16/third_party/adodb/session/adodb-sessions.oracle.sql
+./testlink-1.9.16/third_party/adodb/session/._crypt.inc.php
+./testlink-1.9.16/third_party/adodb/session/crypt.inc.php
+./testlink-1.9.16/third_party/adodb/session/._old
+./testlink-1.9.16/third_party/adodb/session/old/
+./testlink-1.9.16/third_party/adodb/session/._session_schema.xml
+./testlink-1.9.16/third_party/adodb/session/session_schema.xml
+./testlink-1.9.16/third_party/adodb/session/._session_schema2.xml
+./testlink-1.9.16/third_party/adodb/session/session_schema2.xml
+./testlink-1.9.16/third_party/adodb/session/old/._adodb-cryptsession.php
+./testlink-1.9.16/third_party/adodb/session/old/adodb-cryptsession.php
+./testlink-1.9.16/third_party/adodb/session/old/._adodb-session-clob.php
+./testlink-1.9.16/third_party/adodb/session/old/adodb-session-clob.php
+./testlink-1.9.16/third_party/adodb/session/old/._adodb-session.php
+./testlink-1.9.16/third_party/adodb/session/old/adodb-session.php
+./testlink-1.9.16/third_party/adodb/session/old/._crypt.inc.php
+./testlink-1.9.16/third_party/adodb/session/old/crypt.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-db2.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-db2.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-informix.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-informix.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/perf/._perf-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/perf/perf-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/pear/._Auth
+./testlink-1.9.16/third_party/adodb/pear/Auth/
+./testlink-1.9.16/third_party/adodb/pear/._auth_adodb_example.php
+./testlink-1.9.16/third_party/adodb/pear/auth_adodb_example.php
+./testlink-1.9.16/third_party/adodb/pear/._readme.Auth.txt
+./testlink-1.9.16/third_party/adodb/pear/readme.Auth.txt
+./testlink-1.9.16/third_party/adodb/pear/Auth/._Container
+./testlink-1.9.16/third_party/adodb/pear/Auth/Container/
+./testlink-1.9.16/third_party/adodb/pear/Auth/Container/._ADOdb.php
+./testlink-1.9.16/third_party/adodb/pear/Auth/Container/ADOdb.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-ar.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-ar.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-bg.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-bg.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-ca.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-ca.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-cn.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-cn.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-cz.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-cz.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-da.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-da.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-de.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-de.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-en.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-en.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-eo.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-eo.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-es.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-es.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-fa.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-fa.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-fr.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-fr.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-hu.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-hu.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-it.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-it.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-nl.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-nl.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-pl.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-pl.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-pt-br.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-pt-br.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-ro.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-ro.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-ru.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-ru.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-sv.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-sv.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-th.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-th.inc.php
+./testlink-1.9.16/third_party/adodb/lang/._adodb-uk.inc.php
+./testlink-1.9.16/third_party/adodb/lang/adodb-uk.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-access.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-access.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ado.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ado.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ado5.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ado5.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ado_access.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ado_access.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ado_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ado_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ads.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ads.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-borland_ibase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-borland_ibase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-csv.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-csv.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-db2.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-db2.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-db2oci.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-db2oci.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-db2ora.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-db2ora.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-fbsql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-fbsql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-firebird.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-firebird.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ibase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ibase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-informix.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-informix.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-informix72.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-informix72.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-ldap.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-ldap.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mssql_n.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mssql_n.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mssqlpo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mssqlpo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mysqli.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mysqli.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mysqlpo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mysqlpo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-mysqlt.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-mysqlt.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-netezza.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-netezza.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-oci805.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-oci805.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-oci8po.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-oci8po.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-oci8quercus.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-oci8quercus.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbc.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbc.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbc_db2.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbc_db2.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbc_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbc_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbc_oracle.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbc_oracle.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbtp.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbtp.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-odbtp_unicode.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-odbtp_unicode.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-oracle.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-oracle.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_mssql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_mysql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_mysql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_oci.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_oci.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_pgsql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_pgsql.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-pdo_sqlsrv.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-pdo_sqlsrv.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-postgres64.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-postgres64.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-postgres7.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-postgres7.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-postgres8.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-postgres8.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-postgres9.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-postgres9.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-proxy.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-proxy.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sapdb.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sapdb.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sqlanywhere.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sqlanywhere.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sqlite3.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sqlite3.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sqlitepo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sqlitepo.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sybase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sybase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-sybase_ase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-sybase_ase.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/._adodb-vfp.inc.php
+./testlink-1.9.16/third_party/adodb/drivers/adodb-vfp.inc.php
+./testlink-1.9.16/third_party/adodb/docs/._adodb.gif
+./testlink-1.9.16/third_party/adodb/docs/adodb.gif
+./testlink-1.9.16/third_party/adodb/docs/._adodb2.gif
+./testlink-1.9.16/third_party/adodb/docs/adodb2.gif
+./testlink-1.9.16/third_party/adodb/docs/._changelog.md
+./testlink-1.9.16/third_party/adodb/docs/changelog.md
+./testlink-1.9.16/third_party/adodb/docs/._changelog_v2.x.md
+./testlink-1.9.16/third_party/adodb/docs/changelog_v2.x.md
+./testlink-1.9.16/third_party/adodb/docs/._changelog_v3.x.md
+./testlink-1.9.16/third_party/adodb/docs/changelog_v3.x.md
+./testlink-1.9.16/third_party/adodb/docs/._changelog_v4+5.md
+./testlink-1.9.16/third_party/adodb/docs/changelog_v4+5.md
+./testlink-1.9.16/third_party/adodb/docs/._changelog_v4.x.md
+./testlink-1.9.16/third_party/adodb/docs/changelog_v4.x.md
+./testlink-1.9.16/third_party/adodb/docs/._README.md
+./testlink-1.9.16/third_party/adodb/docs/README.md
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-access.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-access.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-db2.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-db2.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-firebird.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-firebird.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-generic.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-generic.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-ibase.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-ibase.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-informix.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-informix.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-mssql.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-mssqlnative.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-mysql.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-oci8.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-postgres.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-sapdb.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-sapdb.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-sqlite.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/._datadict-sybase.inc.php
+./testlink-1.9.16/third_party/adodb/datadict/datadict-sybase.inc.php
+./testlink-1.9.16/third_party/adodb/cute_icons_for_site/._adodb.gif
+./testlink-1.9.16/third_party/adodb/cute_icons_for_site/adodb.gif
+./testlink-1.9.16/third_party/adodb/cute_icons_for_site/._adodb2.gif
+./testlink-1.9.16/third_party/adodb/cute_icons_for_site/adodb2.gif
+./testlink-1.9.16/third_party/adodb/contrib/._toxmlrpc.inc.php
+./testlink-1.9.16/third_party/adodb/contrib/toxmlrpc.inc.php
+./testlink-1.9.16/._upload_area
+./testlink-1.9.16/upload_area/
+./testlink-1.9.16/upload_area/._.dir
+./testlink-1.9.16/upload_area/.dir
+./testlink-1.9.16/upload_area/._.htaccess
+./testlink-1.9.16/upload_area/.htaccess
+rbyraju@rbyraju-HP-ProBook-6545b:~/Documents$ ls -l
+total 26484
+-rw-rw-r--  1 rbyraju rbyraju    65641 Nov 21 23:54 device manager.JPG
+drwxrwxr-x  3 rbyraju rbyraju     4096 Dec 26 00:09 Docker
+-rw-rw-r--  1 rbyraju rbyraju    91076 Mar 31  2017 E-sign_to_complete_your_order.zip
+-rw-rw-r--  1 rbyraju rbyraju    27206 Dec 23 00:46 Rama_Subramanyam_BYRAJU_Resume.docx
+-rw-rw-r--  1 rbyraju rbyraju   905431 Dec 23 00:46 Rama_Subramanyam_BYRAJU_Resume.pdf
+drwxrwxr-x 14 rbyraju rbyraju     4096 Jan 14 16:41 testlink-1.9.16
+-rw-rw-r--  1 rbyraju rbyraju 25983163 Jan 14 14:45 testlink-1.9.16.tar.gz
+drwxrwxr-x  4 rbyraju rbyraju     4096 Nov 21 23:54 TEST-LIO
+rbyraju@rbyraju-HP-ProBook-6545b:~/Documents$ sudo mv testlink-1.9.16 /var/www/
+rbyraju@rbyraju-HP-ProBook-6545b:~/Documents$ cd /var/www
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ ls -l
+total 8
+drwxr-xr-x  2 root    root    4096 Jan 14 16:30 html
+drwxrwxr-x 14 rbyraju rbyraju 4096 Jan 14 16:41 testlink-1.9.16
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ sudo chmod 777 testlink-1.9.16/
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ ls -l
+total 8
+drwxr-xr-x  2 root    root    4096 Jan 14 16:30 html
+drwxrwxrwx 14 rbyraju rbyraju 4096 Jan 14 16:41 testlink-1.9.16
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ mv testlink-1.9.16 testlink
+mv: cannot move 'testlink-1.9.16' to 'testlink': Permission denied
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ ls -l
+total 8
+drwxr-xr-x  2 root    root    4096 Jan 14 16:30 html
+drwxrwxrwx 14 rbyraju rbyraju 4096 Jan 14 16:41 testlink-1.9.16
+rbyraju@rbyraju-HP-ProBook-6545b:/var/www$ sudo su
+root@rbyraju-HP-ProBook-6545b:/var/www# mv testlink-1.9.16 testlink
+root@rbyraju-HP-ProBook-6545b:/var/www# cd /etc/init.d/
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# ls -l *ap*
+-rwxr-xr-x 1 root root 8087 Apr  5  2016 apache2
+-rwxr-xr-x 1 root root 2210 Apr  5  2016 apache-htcacheclean
+-rwxr-xr-x 1 root root 6223 Mar  3  2017 apparmor
+-rwxr-xr-x 1 root root 2802 Nov 17 10:56 apport
+-rwxr-xr-x 1 root root 1598 Feb 17  2016 gdomap
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# ./apache2 restart
+[ ok ] Restarting apache2 (via systemctl): apache2.service.
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# sudo nano /etc/apache2/sites-available/ 000-default.conf
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# ls -l
+total 344
+-rwxr-xr-x 1 root root 2243 Feb  9  2016 acpid
+-rwxr-xr-x 1 root root 5336 Apr 14  2016 alsa-utils
+-rwxr-xr-x 1 root root 2014 Dec 28  2014 anacron
+-rwxr-xr-x 1 root root 8087 Apr  5  2016 apache2
+-rwxr-xr-x 1 root root 2210 Apr  5  2016 apache-htcacheclean
+-rwxr-xr-x 1 root root 6223 Mar  3  2017 apparmor
+-rwxr-xr-x 1 root root 2802 Nov 17 10:56 apport
+-rwxr-xr-x 1 root root 2401 Nov  4  2015 avahi-daemon
+-rwxr-xr-x 1 root root 1322 Feb 21  2016 binfmt-support
+-rwxr-xr-x 1 root root 2968 Mar  1  2016 bluetooth
+-rwxr-xr-x 1 root root 1275 Jan 19  2016 bootmisc.sh
+-rwxr-xr-x 1 root root 2125 Apr 27  2016 brltty
+-rwxr-xr-x 1 root root 1904 Oct 15  2014 cgroupfs-mount
+-rwxr-xr-x 1 root root 3807 Jan 19  2016 checkfs.sh
+-rwxr-xr-x 1 root root 1098 Jan 19  2016 checkroot-bootclean.sh
+-rwxr-xr-x 1 root root 9353 Jan 19  2016 checkroot.sh
+-rwxr-xr-x 1 root root 1343 Apr  4  2016 console-setup
+-rwxr-xr-x 1 root root 3049 Apr  5  2016 cron
+-rwxr-xr-x 1 root root 2816 Feb 13  2016 cups
+-rwxr-xr-x 1 root root 1961 Feb 13  2016 cups-browsed
+-rwxr-xr-x 1 root root 2813 Dec  1  2015 dbus
+-rwxr-xr-x 1 root root 1172 Oct 23  2015 dns-clean
+-rwxr-xr-x 1 root root 3843 Dec  7 14:19 docker
+-rwxr-xr-x 1 root root 1598 Feb 17  2016 gdomap
+-rwxr-xr-x 1 root root 1105 Mar 15  2016 grub-common
+-rwxr-xr-x 1 root root 1336 Jan 19  2016 halt
+-rwxr-xr-x 1 root root 2531 Aug 31 20:27 helix-p4dctl
+-rwxr-xr-x 1 root root 1423 Jan 19  2016 hostname.sh
+-rwxr-xr-x 1 root root 3809 Mar 12  2016 hwclock.sh
+-rwxr-xr-x 1 root root 2372 Apr 11  2016 irqbalance
+-rwxr-xr-x 1 root root 6753 Dec 13 18:21 jenkins
+-rwxr-xr-x 1 root root 3102 Mar 10  2016 kerneloops
+-rwxr-xr-x 1 root root 1804 Apr  4  2016 keyboard-setup.dpkg-bak
+-rwxr-xr-x 1 root root 1300 Jan 19  2016 killprocs
+-rwxr-xr-x 1 root root 2087 Dec 20  2015 kmod
+-rwxr-xr-x 1 root root 3431 Apr  4  2016 lightdm
+-rwxr-xr-x 1 root root  703 Jan 19  2016 mountall-bootclean.sh
+-rwxr-xr-x 1 root root 2301 Jan 19  2016 mountall.sh
+-rwxr-xr-x 1 root root 1461 Jan 19  2016 mountdevsubfs.sh
+-rwxr-xr-x 1 root root 1564 Jan 19  2016 mountkernfs.sh
+-rwxr-xr-x 1 root root  711 Jan 19  2016 mountnfs-bootclean.sh
+-rwxr-xr-x 1 root root 2456 Jan 19  2016 mountnfs.sh
+-rwxr-xr-x 1 root root 5607 Feb  3  2017 mysql
+-rwxr-xr-x 1 root root 4771 Jul 19  2015 networking
+-rwxr-xr-x 1 root root 1757 May 11  2016 network-manager
+-rwxr-xr-x 1 root root 1581 Oct 15  2015 ondemand
+-rwxr-xr-x 1 root root 1366 Nov 15  2015 plymouth
+-rwxr-xr-x 1 root root  752 Nov 15  2015 plymouth-log
+-rwxr-xr-x 1 root root  612 Jan 27  2016 pppd-dns
+-rwxr-xr-x 1 root root 1192 Sep  5  2015 procps
+-rwxr-xr-x 1 root root 6366 Jan 19  2016 rc
+-rwxr-xr-x 1 root root  820 Jan 19  2016 rc.local
+-rwxr-xr-x 1 root root  117 Jan 19  2016 rcS
+-rw-r--r-- 1 root root 2427 Jan 19  2016 README
+-rwxr-xr-x 1 root root  661 Jan 19  2016 reboot
+-rwxr-xr-x 1 root root 4149 Nov 23  2015 resolvconf
+-rwxr-xr-x 1 root root 4355 Jul 10  2014 rsync
+-rwxr-xr-x 1 root root 2796 Feb  3  2016 rsyslog
+-rwxr-xr-x 1 root root 2522 Jul  9  2015 saned
+-rwxr-xr-x 1 root root 3927 Jan 19  2016 sendsigs
+-rwxr-xr-x 1 root root  597 Jan 19  2016 single
+-rw-r--r-- 1 root root 1087 Jan 19  2016 skeleton
+-rwxr-xr-x 1 root root 2117 Feb 18  2016 speech-dispatcher
+-rwxr-xr-x 1 root root 1154 Jan 29  2016 thermald
+-rwxr-xr-x 1 root root 6087 Apr 12  2016 udev
+-rwxr-xr-x 1 root root 2049 Aug  7  2014 ufw
+-rwxr-xr-x 1 root root 2737 Jan 19  2016 umountfs
+-rwxr-xr-x 1 root root 2202 Jan 19  2016 umountnfs.sh
+-rwxr-xr-x 1 root root 1879 Jan 19  2016 umountroot
+-rwxr-xr-x 1 root root 1391 Apr 20  2017 unattended-upgrades
+-rwxr-xr-x 1 root root 3111 Jan 19  2016 urandom
+-rwxr-xr-x 1 root root 1306 May 26  2016 uuidd
+-rwxr-xr-x 1 root root  485 Jun 15  2016 whoopsie
+-rwxr-xr-x 1 root root 2757 Nov 10  2015 x11-common
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# pwd
+/etc/init.d
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# cd /etc/
+root@rbyraju-HP-ProBook-6545b:/etc# cd apache2
+root@rbyraju-HP-ProBook-6545b:/etc/apache2# ls -l
+total 80
+-rw-r--r-- 1 root root  7115 Mar 19  2016 apache2.conf
+drwxr-xr-x 2 root root  4096 Jan 14 16:31 conf-available
+drwxr-xr-x 2 root root  4096 Jan 14 16:31 conf-enabled
+-rw-r--r-- 1 root root  1782 Mar 19  2016 envvars
+-rw-r--r-- 1 root root 31063 Mar 19  2016 magic
+drwxr-xr-x 2 root root 12288 Jan 14 16:32 mods-available
+drwxr-xr-x 2 root root  4096 Jan 14 16:32 mods-enabled
+-rw-r--r-- 1 root root   320 Mar 19  2016 ports.conf
+drwxr-xr-x 2 root root  4096 Jan 14 16:30 sites-available
+drwxr-xr-x 2 root root  4096 Jan 14 16:30 sites-enabled
+root@rbyraju-HP-ProBook-6545b:/etc/apache2# cd sites-available/
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# ls -l
+total 12
+-rw-r--r-- 1 root root 1332 Mar 19  2016 000-default.conf
+-rw-r--r-- 1 root root 6338 Apr  5  2016 default-ssl.conf
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# gedit 000-default.conf 
+
+(gedit:18451): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:18451): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:18451): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:18451): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# cd /etc/init.d/root@rbyraju-HP-ProBook-6545b:/etc/init.d# ./apache2 restart[ ok ] Restarting apache2 (via systemctl): apache2.service.
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# gedit 000-default.conf 
+
+** (gedit:18636): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+root@rbyraju-HP-ProBook-6545b:/etc/init.d# cd /etc/
+root@rbyraju-HP-ProBook-6545b:/etc# cd apache2
+root@rbyraju-HP-ProBook-6545b:/etc/apache2# cd sites-available/
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# gedit 000-default.conf 
+
+(gedit:18685): Gtk-WARNING **: Calling Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (gedit:18685): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-spell-enabled not supported
+
+** (gedit:18685): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:18685): WARNING **: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# 
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# /etc/init.d/apache2 restart
+[ ok ] Restarting apache2 (via systemctl): apache2.service.
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# 
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# 
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo mkdir /var/testlink
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo mkdir /var/testlink/logs
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo mkdir /var/testlink/upload_area
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo chmod 777 /var/www/testlink/gui/templates_c
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo chmod 777 /var/testlink/logs
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# sudo chmod 777 /var/testlink/upload_area
+root@rbyraju-HP-ProBook-6545b:/etc/apache2/sites-available# cd /x
+bash: cd: /x: No such file or directory

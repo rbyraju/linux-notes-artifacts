@@ -1,0 +1,48 @@
+There are dependency errors loading some plugins:
+Amazon EC2 Container Service plugin with autoscaling capabilities v1.0
+aws-java-sdk v1.10.45 is missing. To fix, install v1.10.45 or later.
+aws-credentials v1.15 is missing. To fix, install v1.15 or later.
+Pipeline: Declarative Extension Points API v1.2.5
+workflow-cps v2.41 is missing. To fix, install v2.41 or later.
+pipeline-model-api v1.2.5 is missing. To fix, install v1.2.5 or later.
+Pipeline Graph Analysis Plugin v1.5
+workflow-cps v2.37 is missing. To fix, install v2.37 or later.
+pipeline-input-step v2.0 is missing. To fix, install v2.0 or later.
+pipeline-stage-step v2.2 is missing. To fix, install v2.2 or later.
+GitHub plugin v1.28.1
+Jenkins Git plugin v3.6.4 failed to load. Fix this plugin first.
+Pipeline v2.5
+pipeline-input-step v2.5 is missing. To fix, install v2.5 or later.
+workflow-basic-steps v2.3 is missing. To fix, install v2.3 or later.
+workflow-cps v2.24 is missing. To fix, install v2.24 or later.
+workflow-cps-global-lib v2.5 is missing. To fix, install v2.5 or later.
+Pipeline: Multibranch v2.16 failed to load. Fix this plugin first.
+Amazon EC2 Container Service plugin v1.11
+aws-java-sdk v1.11.37 is missing. To fix, install v1.11.37 or later.
+aws-credentials v1.16 is missing. To fix, install v1.16 or later.
+Pipeline: Stage View Plugin v2.9
+Pipeline: REST API Plugin v2.9 failed to load. Fix this plugin first.
+Jenkins Parameterized Trigger plugin v2.35.2
+conditional-buildstep v1.3.1 is missing. To fix, install v1.3.1 or later.
+GitHub Branch Source Plugin v2.3.1
+GitHub plugin v1.28.1 failed to load. Fix this plugin first.
+Pipeline: GitHub Groovy Libraries v1.0
+workflow-cps-global-lib v2.5 is missing. To fix, install v2.5 or later.
+Jenkins Git plugin v3.6.4 failed to load. Fix this plugin first.
+Pipeline: Multibranch v2.16
+workflow-cps v2.32 is missing. To fix, install v2.32 or later.
+Branch API Plugin is disabled. To fix, enable it.
+Docker Pipeline v1.14
+workflow-cps v2.25 is missing. To fix, install v2.25 or later.
+docker-commons v1.5 is missing. To fix, install v1.5 or later.
+Pipeline: REST API Plugin v2.9
+Pipeline Graph Analysis Plugin v1.5 failed to load. Fix this plugin first.
+Jenkins Git plugin v3.6.4
+git-client v2.5.0 is missing. To fix, install v2.5.0 or later.
+Pipeline: Declarative Agent API v1.1.1
+Pipeline: Declarative Extension Points API v1.2.5 failed to load. Fix this plugin first.
+Setup Security
+Dismiss
+
+
+
