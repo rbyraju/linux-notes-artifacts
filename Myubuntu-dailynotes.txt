@@ -1,0 +1,129 @@
+http://www.samsung.com/au/support/home-appliances/how-to-prevent-detergent-or-water-build-up-in-the-detergent-drawer/
+https://www.shopyourway.com/questions/1203079
+http://www.samsung.com/levant/support/skp/faq/241941
+I just had this problem with mine. As I was scrolling through replies, I decided to try a home fix. All I did was pull the dispenser out and remove the "caps" (the max fill line tabs...pull those off), and soaked all parts separately in vinegar for about 20 minutes. I didn't time it. I just soaked them until I remembered they were soaking hahaha!! I then scrubbed them with bottle brushes. All parts. I put it all back together and ran a load of wash hoping it fixed it. IT WORKED!!! It was just hard water deposits clogging the syphoning I assume. Give this a shot. Hope it helps others!
+https://www.youtube.com/watch?v=nOfTFAtyXtQ
+===================
+
+
+Download Eclipse for your Linux distribution from their official website. It's a compressed file, uncompress it and run 'eclipse-inst' to run installer.
+
+====================
+Jenkins Initial admin password : 8174589a11624452a2f6e95a122910d0
+59EA265650B4D059
+
+Below are cleanup system tools
+
+BleachBit
+Ubuntu Tweak
+GCleaner
+Sweeper
+
+To remove any packages that aren't needed by the system:
+
+sudo apt-get autoremove
+The other answer for this question:
+
+sudo apt-get clean
+This just clears the package cache for downloading new packages, it will not uninstall any packages.
+
+See: https://help.ubuntu.com/community/AptGet/Howto
+
+======================
+
+Running dex as a separate process.
+
+To run dex in process, the Gradle daemon needs a larger heap.
+It currently has 1024 MB.
+For faster builds, increase the maximum heap size for the Gradle daemon to at least 1536 MB.
+To do this set org.gradle.jvmargs=-Xmx1536M in the project gradle.properties.
+For more information see https://docs.gradle.org/current/userguide/build_environment.html
+
+
+
+http://sockshare.net/watch/QG3zlKxo-life-2017.html
+apt-get install -f
+N: Ignoring file '20auto-upgrades.ucf-dist' in directory '/etc/apt/apt.conf.d/' as it has an invalid filename extension
+root@rbyraju-HP-ProBook-6545b:/home/rbyraju# 
+
+
+chase acc # : 437794444 routing #: 322271627
+paypal.me/RByraju
+Asking for a specific amount? Just add that number to the end of your link. Use PayPal.Me/RByraju/25 
+
+Ubuntu Acc# :  rbyraju@gmail.com (only user id), pwed - usual
+ http://screencast-o-matic.com/account?l=signup&e=rama_byraju%40hotmail.com&u=1490416619&c=8e5ebda7534dbc2997647444ba30c8fc&nl=false
+
+redcross donor id : 45R9U9U
+export PATH=${PATH}:/home/rbyraju/Android/Sdk/platform-tools
+export PATH=${PATH}:/home/rbyraju/Android/Sdk/tools
+
+    
+http://askubuntu.com/questions/318246/complete-installation-guide-for-android-sdk-adt-bundle-on-ubuntu
+
+https://developer.android.com/studio/install.html
+
+If you are running a 64-bit version of Ubuntu, you need to install some 32-bit libraries with the following command:
+
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
+cd /home/rbyraju/Android/Sdk/platform-tools
+59EA265650B4D059
+59EA265650B4D059
+
+notepadppq:
+--
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt-get update
+sudo apt-get install notepadqq
+
+https://itsfoss.com/notepad-alternatives-for-linux/
+
+Others :
+SCITE : 
+sudo apt-get install scite
+
+Geany (more than a text editor)
+sudo apt-get install geany scite
+
+
+==
+
+I am not much into Linux. I am trying to setup a server through ssh. I installed apache php and mysql through this command.
+
+sudo aptitude install apache2 php5-mysql libapache2-mod-php5 mysql-server
+but I think php is not enabled on the server.
+
+When I run command I receive response as below
+
+$ which apache2ctl
+/usr/sbin/apache2ctl
+But when I check $ which php I receive no response.
+
+$ locate php5
+/etc/apparmor.d/abstractions/php5
+/usr/share/ubuntu-serverguide/html/C/php5.html
+
+
+https://superuser.com/questions/74233/how-to-confirm-php-enabled-on-ubuntu-server
+
+==
+
+ sudo apt-get install apache2 mysql-client mysql-server phpmyadmin
+ 
+ Rama : my sql server , root / pwd same as this ubuntu
+ 
+ 
+ ====
+ sudo snap install [pycharm-professional|pycharm-community] --classic
+ sudo snap install pycharm-community --classic
+ 
+ ====
+ 
+ TEST LINK's mysql db name is "testlink" , root/ pwd same as ubuntu
+ TestLink DB login ; testlinkdbuser / pwd same as ubuntu 
+ 
+ Test link can be accessed from :   
+ admin/admin to use the TestLink 
+ 
+ 
