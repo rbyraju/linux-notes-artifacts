@@ -1,10 +1,4 @@
-
-
-rb@LAPTOP-I4M8KLB2 MINGW64 ~
-$ pwd
-/c/Users/rb
-
-
+// This is command line build log for an android test app 
 
 rb@LAPTOP-I4M8KLB2 MINGW64 ~
 $ cd C\:\\Tools\\Android\\MyAndroidProjects\\Notes2
