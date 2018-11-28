@@ -1,0 +1,227 @@
+
+
+rb@LAPTOP-I4M8KLB2 MINGW64 ~
+$ pwd
+/c/Users/rb
+
+
+
+rb@LAPTOP-I4M8KLB2 MINGW64 ~
+$ cd C\:\\Tools\\Android\\MyAndroidProjects\\Notes2
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ pwd
+/c/Tools/Android/MyAndroidProjects/Notes2
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ gradlew clean
+bash: gradlew: command not found
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ ./gradlew clean
+Parallel execution is an incubating feature.
+:app:clean
+
+BUILD SUCCESSFUL in 8s
+1 actionable task: 1 executed
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ ./gradlew tasks
+Parallel execution is an incubating feature.
+:tasks
+
+------------------------------------------------------------
+All tasks runnable from root project
+------------------------------------------------------------
+
+Android tasks
+-------------
+androidDependencies - Displays the Android dependencies of the project.
+signingReport - Displays the signing info for each variant.
+sourceSets - Prints out all the source sets defined in this project.
+
+Build tasks
+-----------
+assemble - Assembles all variants of all applications and secondary packages.
+assembleAndroidTest - Assembles all the Test applications.
+assembleDebug - Assembles all Debug builds.
+assembleMock - Assembles all Mock builds.
+assembleProd - Assembles all Prod builds.
+assembleRelease - Assembles all Release builds.
+build - Assembles and tests this project.
+buildDependents - Assembles and tests this project and all projects that depend                                                                  on it.
+buildNeeded - Assembles and tests this project and all projects it depends on.
+bundleDebug - Creates all Debug bundles.
+bundleMock - Creates all Mock bundles.
+bundleProd - Creates all Prod bundles.
+bundleRelease - Creates all Release bundles.
+clean - Deletes the build directory.
+cleanBuildCache - Deletes the build cache directory.
+compileMockDebugAndroidTestSources
+compileMockDebugSources
+compileMockDebugUnitTestSources
+compileProdDebugAndroidTestSources
+compileProdDebugSources
+compileProdDebugUnitTestSources
+compileProdReleaseSources
+compileProdReleaseUnitTestSources
+
+Build Setup tasks
+-----------------
+init - Initializes a new Gradle build.
+wrapper - Generates Gradle wrapper files.
+
+Cleanup tasks
+-------------
+lintFix - Runs lint on all variants and applies any safe suggestions to the sour                                                                 ce code.
+
+Help tasks
+----------
+buildEnvironment - Displays all buildscript dependencies declared in root projec                                                                 t 'Notes2'.
+components - Displays the components produced by root project 'Notes2'. [incubat                                                                 ing]
+dependencies - Displays all dependencies declared in root project 'Notes2'.
+dependencyInsight - Displays the insight into a specific dependency in root proj                                                                 ect 'Notes2'.
+dependentComponents - Displays the dependent components of components in root pr                                                                 oject 'Notes2'. [incubating]
+help - Displays a help message.
+model - Displays the configuration model of root project 'Notes2'. [incubating]
+projects - Displays the sub-projects of root project 'Notes2'.
+properties - Displays the properties of root project 'Notes2'.
+tasks - Displays the tasks runnable from root project 'Notes2' (some of the disp                                                                 layed tasks may belong to subprojects).
+
+Install tasks
+-------------
+installMockDebug - Installs the DebugMock build.
+installMockDebugAndroidTest - Installs the android (on device) tests for the Moc                                                                 kDebug build.
+installProdDebug - Installs the DebugProd build.
+installProdDebugAndroidTest - Installs the android (on device) tests for the Pro                                                                 dDebug build.
+uninstallAll - Uninstall all applications.
+uninstallMockDebug - Uninstalls the DebugMock build.
+uninstallMockDebugAndroidTest - Uninstalls the android (on device) tests for the                                                                  MockDebug build.
+uninstallProdDebug - Uninstalls the DebugProd build.
+uninstallProdDebugAndroidTest - Uninstalls the android (on device) tests for the                                                                  ProdDebug build.
+uninstallProdRelease - Uninstalls the ReleaseProd build.
+
+Verification tasks
+------------------
+check - Runs all checks.
+connectedAndroidTest - Installs and runs instrumentation tests for all flavors o                                                                 n connected devices.
+connectedCheck - Runs all device checks on currently connected devices.
+connectedMockDebugAndroidTest - Installs and runs the tests for mockDebug on con                                                                 nected devices.
+connectedProdDebugAndroidTest - Installs and runs the tests for prodDebug on con                                                                 nected devices.
+deviceAndroidTest - Installs and runs instrumentation tests using all Device Pro                                                                 viders.
+deviceCheck - Runs all device checks using Device Providers and Test Servers.
+lint - Runs lint on all variants.
+lintMockDebug - Runs lint on the MockDebug build.
+lintProdDebug - Runs lint on the ProdDebug build.
+lintProdRelease - Runs lint on the ProdRelease build.
+lintVitalProdRelease - Runs lint on just the fatal issues in the prodRelease bui                                                                 ld.
+test - Run unit tests for all variants.
+testMockDebugUnitTest - Run unit tests for the mockDebug build.
+testProdDebugUnitTest - Run unit tests for the prodDebug build.
+testProdReleaseUnitTest - Run unit tests for the prodRelease build.
+
+To see all tasks and more detail, run gradlew tasks --all
+
+To see more detail about a task, run gradlew help --task <task>
+
+BUILD SUCCESSFUL in 2s
+1 actionable task: 1 executed
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$
+
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ ./gradlew assembleProd
+Parallel execution is an incubating feature.
+:app:checkProdDebugClasspath
+:app:preBuild UP-TO-DATE
+:app:preProdDebugBuild
+:app:compileProdDebugAidl NO-SOURCE
+:app:compileProdDebugRenderscript
+:app:checkProdDebugManifest
+:app:generateProdDebugBuildConfig
+:app:prepareLintJar UP-TO-DATE
+:app:mainApkListPersistenceProdDebug
+:app:generateProdDebugResValues
+:app:generateProdDebugResources
+:app:mergeProdDebugResources
+:app:createProdDebugCompatibleScreenManifests
+:app:processProdDebugManifest
+:app:splitsDiscoveryTaskProdDebug
+:app:processProdDebugResources
+:app:generateProdDebugSources
+:app:javaPreCompileProdDebug
+:app:compileProdDebugJavaWithJavacNote: Some input files use unchecked or unsafe                                                                  operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+:app:compileProdDebugNdk NO-SOURCE
+:app:compileProdDebugSources
+:app:mergeProdDebugShaders
+:app:compileProdDebugShaders
+:app:generateProdDebugAssets
+:app:mergeProdDebugAssets
+:app:transformClassesWithDexBuilderForProdDebug
+:app:transformDexArchiveWithExternalLibsDexMergerForProdDebug
+:app:transformDexArchiveWithDexMergerForProdDebug
+:app:mergeProdDebugJniLibFolders
+:app:transformNativeLibsWithMergeJniLibsForProdDebug
+:app:transformNativeLibsWithStripDebugSymbolForProdDebug
+:app:checkProdDebugLibraries
+:app:processProdDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForProdDebug
+:app:validateSigningProdDebug
+:app:packageProdDebug
+:app:assembleProdDebug
+:app:checkProdReleaseClasspath
+:app:preProdReleaseBuild
+:app:compileProdReleaseAidl NO-SOURCE
+:app:compileProdReleaseRenderscript
+:app:checkProdReleaseManifest
+:app:generateProdReleaseBuildConfig
+:app:mainApkListPersistenceProdRelease
+:app:generateProdReleaseResValues
+:app:generateProdReleaseResources
+:app:mergeProdReleaseResources
+:app:createProdReleaseCompatibleScreenManifests
+:app:processProdReleaseManifest
+:app:splitsDiscoveryTaskProdRelease
+:app:processProdReleaseResources
+:app:generateProdReleaseSources
+:app:javaPreCompileProdRelease
+:app:compileProdReleaseJavaWithJavacNote: Some input files use unchecked or unsa                                                                 fe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+:app:compileProdReleaseNdk NO-SOURCE
+:app:compileProdReleaseSources
+:app:lintVitalProdRelease
+:app:mergeProdReleaseShaders
+:app:compileProdReleaseShaders
+:app:generateProdReleaseAssets
+:app:mergeProdReleaseAssets
+:app:transformClassesWithDexBuilderForProdRelease
+:app:transformDexArchiveWithExternalLibsDexMergerForProdRelease
+:app:transformDexArchiveWithDexMergerForProdRelease
+:app:mergeProdReleaseJniLibFolders
+:app:transformNativeLibsWithMergeJniLibsForProdRelease
+:app:transformNativeLibsWithStripDebugSymbolForProdRelease
+:app:checkProdReleaseLibraries
+:app:processProdReleaseJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForProdRelease
+:app:packageProdRelease
+:app:assembleProdRelease
+:app:assembleProd
+
+BUILD SUCCESSFUL in 1m 36s
+55 actionable tasks: 54 executed, 1 up-to-date
+
+
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$ cp C\:\\Tools\\Android\\MyAndroidProjects\\Notes2\\app\\build\\outputs\\apk\\prod\\release\\app-prod-release-unsigned.apk   C\:\\Temp\\Note2Release.apk
+
+rb@LAPTOP-I4M8KLB2 MINGW64 /c/Tools/Android/MyAndroidProjects/Notes2
+$

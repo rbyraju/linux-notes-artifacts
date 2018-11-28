@@ -1,0 +1,19 @@
+
+
+h4. +Issue description :+ {color:blue}<>{color} 
+h4. +Steps to Reproduce :+ {color:blue}<>{color} 
+h4. +Logs/snaps path :+ 
+h6. DUT Make/Model: {color:blue}<>{color} 
+h6. Android OS: {color:blue}<>{color} 
+h6. NW/Operator  : {color:blue}<>{color} 
+h6. Additional Info : {color:blue}<>{color}
+
+h5. +Issue description :+ 
+h5. +Steps to Reproduce :+
+h4. +Logs/snaps path :+ 
+h6. DUT Make/Model: 
+h6. Client :  
+h6. Android OS: 
+h6. NW/Operator  : 
+h6. Additional Info : 
+
